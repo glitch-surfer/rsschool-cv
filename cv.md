@@ -62,4 +62,4 @@ selfeducation, while i`am training HTML, CSS, basic JS, layout, figma, photoshop
 
 - Russian - Native
 - English - Intermediate (according to the online test at EFset Logo [www.efset.org](www.efset.org))
-![test](будет картинка)
+![test](./img/english.png)
