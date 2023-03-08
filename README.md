@@ -1,1 +1,1 @@
-https://glitch-surfer.github.io/rsschool-cv/cv
+https://glitch-surfer.github.io/rsschool-cv/
