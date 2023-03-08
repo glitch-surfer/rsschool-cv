@@ -1,2 +1,1 @@
-# rsschool-cv
-# rsschool-cv
+https://glitch-surfer.github.io/rsschool-cv/
