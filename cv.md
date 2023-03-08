@@ -1,13 +1,13 @@
-#Vladislav Ga
+# Vladislav Ga
 
-##Contacts
+## Contacts
 
 - telegram: @vladislavGa
 - Email: marker661@gmail.com
 - GitHub: Glitch-surfer
 - Discord: Vladislav (@glitch-surfer)
 
-##About Me
+## About Me
 
 I admire the ability of living organisms to adapt and evolve. As soon as I realized that I had realized myself as a specialist, and in my professional sphere the pace of my development began to slow down, and new, unexplored aspects became less and less, I began to look in which direction to move on. It was a simple choice because: 
 - such an interesting, versatile and creative field
@@ -22,16 +22,16 @@ My strengths:
 *persistence
 *empathy
 
-##Skills
+## Skills
 
 - HTML (Semantic, Accessibility)
 - CSS (BEM, Responsive Web Design, CSS Flexbox, Bootstrap grid, etc)
 - JavaScript (Basic)
 - Git/GitHub
 
-##Code Example
+## Code Example
 
-###reverse string
+### reverse string
 
 ``` 
 let example = 'Привет, мир!'
@@ -41,7 +41,7 @@ for (i=0; i< example.length; ++i) {
 }
 console.log(exampleReverse)
 ```
-##Experience
+## Experience
 
 selfeducation, while i`am training HTML, CSS, basic JS, layout, figma, photoshop, chrome DevTools, VScode, GitHub, Terminal
 
@@ -49,7 +49,7 @@ selfeducation, while i`am training HTML, CSS, basic JS, layout, figma, photoshop
 - [https://github.com/glitch-surfer/pet2](https://github.com/glitch-surfer/pet2)
 - [https://github.com/glitch-surfer/pet2.1-customize-UI](https://github.com/glitch-surfer/pet2.1-customize-UI)
 
-##Education
+## Education
 
 * Northwestern State Medical University / Faculty of Medicine
 * selfeducation with: 
@@ -58,7 +58,7 @@ selfeducation, while i`am training HTML, CSS, basic JS, layout, figma, photoshop
     * [Youtube](youtube.ru)
 * RS Schools Course «JavaScript/Front-end 2023Q1 Stage 1» in progress
 
-##Language
+## Language
 
 - Russian - Native
 - English - Intermediate (according to the online test at EFset Logo [www.efset.org](www.efset.org))
